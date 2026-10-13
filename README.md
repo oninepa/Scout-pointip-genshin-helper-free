@@ -8,9 +8,7 @@
 
 👉 https://pointip.pages.dev
 
-또는 직접 다운로드:
 
-👉 https://yhiszempouprnxaoxusf.supabase.co/storage/v1/object/public/downloads/pointip-desktop_0.1.4_x64-setup.exe
 
 ## 주요 기능
 
